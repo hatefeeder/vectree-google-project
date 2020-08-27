@@ -1,0 +1,63 @@
+body {
+    background: #ffffff;
+    color: #222222;
+    font: 13px Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background: #fafafa;
+    border-bottom: 1px solid #e4e4e4;
+}
+
+header div {
+    padding: 20px 12px 15px;
+    white-space: nowrap;
+    display: flex;
+    align-items: center;
+}
+
+header div > a {
+    height: 44px;
+}
+
+a {
+    text-decoration: none;
+}
+
+form {
+    background-color: #ffffff;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 2px 2px rgba(0, 0, 0, 0.16),
+                0 0 0 1px rgba(0, 0, 0, 0.08);
+    box-sizing: border-box;
+    margin: 0 17px;
+    outline: none;
+    padding: 0 15px;
+    transition: box-shadow 200ms cubic-bezier(0.4, 0.0, 0.2, 1);
+    width: 632px;
+}
+
+input[type='search'] {
+    border: none;
+    display: inline-block;
+    font: 16px Arial, sans-serif;
+    height: 44px;
+    outline: none;
+    width: 580px;
+}
+
+button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    vertical-align: middle;
+}
+
+button img {
+    fill: blue;
+    height: 24px;
+    width: 24px;
+}
