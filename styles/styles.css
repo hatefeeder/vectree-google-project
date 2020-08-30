@@ -9,6 +9,8 @@ a {
     text-decoration: none;
 }
 
+/*header styles*/
+
 header {
     background: #fafafa;
     border-bottom: 1px solid #e4e4e4;
@@ -63,18 +65,13 @@ button {
     vertical-align: middle;
 }
 
-button svg {
-    fill: #4285f4;
-    height: 24px;
-    width: 24px;
-}
-
 main {
     margin-left: 144px;
     font: 25px;
 }
 
 /* main styles */
+
 .search-result-count {
     color: grey;
     margin: 20px;
