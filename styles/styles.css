@@ -227,9 +227,33 @@ li {
 }
 
 .page-letters-container {
-    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+    font-family: Arial, sans-serif;
     font-size: 32px;
 }
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.green{
+    color: green;
+}
+
+
+
+.text-numbers-container > td {
+    text-align: center;
+    font-size: 12px;
+}
+
 #apps {
     background: url(https://ssl.gstatic.com/gb/images/i2_2ec824b0.png) -132px -38px/528px 68px;
     box-sizing: border-box;
@@ -320,3 +344,5 @@ nav .selected {
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
     color: #000000;
 }
+
+/* */
