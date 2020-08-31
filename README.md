@@ -30,7 +30,7 @@ Project was created to demonstrate skills in developing web page, positioning di
 + HTML
 + CSS
 
-## <a name="setup"Setup</a>
+## <a name="setup">Setup</a>
 
 [Here](https://mishadzhurmiy.github.io/vectree-google-project/) you can visit live version of website.
 
