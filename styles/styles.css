@@ -356,14 +356,16 @@ footer > ul {
     font-size: 15px;
     line-height: 40px;
     padding-left: 150px;
+    width: unset;
+    margin-top: 0px;
+    margin-bottom: 0mm;
 }
 
 footer li{
     font-size: 13px;
     margin-right: 25px;
     display: inline;
-    padding: 0
-;
+    padding: 0;
 }
 
 footer a {
